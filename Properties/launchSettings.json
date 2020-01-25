@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FaceDetect": {
+      "commandName": "Project",
+      "commandLineArgs": "\"APIKEY\" \"C:\\Users\\ocben\\source\\repos\\FaceDetect\\faces.jpg\""
+    }
+  }
+}
